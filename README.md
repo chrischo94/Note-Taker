@@ -18,7 +18,7 @@
   This product uses a MIT license
 
   ## Demo
-  <img src="assets/images/ezgif.com-gif-maker(3).gif">
+  <img src="assets/images/ezgif.com-gif-maker(4).gif">
 
   ## Questions
   For additional questions feel free to contact: chrischo2012@gmail.com
